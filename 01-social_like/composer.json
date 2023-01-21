@@ -1,0 +1,14 @@
+{
+    "name": "lamd/poo",
+    "autoload": {
+        "psr-4": {
+            "Lamd\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Amador Marroquin Delgado"
+        }
+    ],
+    "require": {}
+}
