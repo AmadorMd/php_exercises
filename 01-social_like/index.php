@@ -1,7 +1,11 @@
 <?php
 
-require 'vendor/autoload.php';
+// require 'vendor/autoload.php';
 
-class Post{
+// class Post{
     
-}
+// }
+
+$HELLO = "Welcome to the jungle";
+$var = "HELLO";
+echo $var . " " . $$var; // 
